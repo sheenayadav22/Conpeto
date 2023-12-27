@@ -23,6 +23,9 @@ Java-based front-end of a community networking app built using Android Studio, e
 * **Search by Specific Category**
   * Allowing users to search for groups based on specific categories.
 
+* **Rendering Group Location on Google Maps**
+  * Displaying the location of groups on Google Maps.
+
 * **Rendering Searched Groups on Map**
   * Displaying searched groups on a map.
 
